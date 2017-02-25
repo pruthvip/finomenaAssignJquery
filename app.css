@@ -1,0 +1,25 @@
+.display-t {
+    display: table !important;
+    width: 100% !important;
+}
+
+.display-tr {
+    display: table-row !important;
+}
+
+
+
+.display-td {
+    display: table-cell !important;
+}
+
+
+.display-td--vm {
+    vertical-align: middle;
+}
+.display-td--vb {
+    vertical-align: bottom;
+}
+.display-td--vt {
+    vertical-align: top;
+}
